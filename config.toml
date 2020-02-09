@@ -1,0 +1,4 @@
+baseURL = "http://whywesleep.info/"
+languageCode = "en-us"
+title = "Why We Sleep Fact Check"
+theme = "ananke"
